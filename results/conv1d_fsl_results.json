@@ -1,0 +1,14 @@
+{
+    "representation": "normalized_1D",
+    "model": "Siamese Conv1D",
+    "1_shot": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    },
+    "5_shot": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    }
+}
